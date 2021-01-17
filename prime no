@@ -1,0 +1,7 @@
+n=int(input())
+for i in range(0,n):
+  if(n%i==0):
+      pass
+  else 
+    print(i)
+      
